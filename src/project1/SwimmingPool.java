@@ -2,7 +2,7 @@ package project1;
 
 public class SwimmingPool {
 	protected int width;
-	protected String nameOfVisitor;
+	protected String nameOfVisitor; 
 	
 	private String address;
 	private int volume;
@@ -11,7 +11,6 @@ public class SwimmingPool {
 	private String nameOfCoach;
 	 
 	public static int NumberOfVisitorsToday = 28;
-	
 	
 	public String getAddress() {
         return this.address;
