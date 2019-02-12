@@ -1,4 +1,4 @@
-package project1;
+package ua.lviv.iot.lab1;
 
 public class Main {
 
